@@ -1,0 +1,46 @@
+header{
+	
+	width: 100%;
+	height: 250px;
+	background-color: orange;
+	position: fixed;
+	top:0px;
+    left:0px;
+    right:0px;
+	z-index:999999;
+	
+
+
+}
+body{
+	background-color: black;
+}
+#filter{
+	
+	float: left;
+	width: 160px;
+	height: 700px;
+	background-color: #CCC;
+	padding-left: 40px;
+	margin-right: 10px;
+
+}
+
+
+#panel{
+	cursor:pointer;
+}
+#gallerie{
+	margin-top: 250px;
+	margin-left: 160px;
+	
+}
+.imgz{
+	width: 350px;
+	height: 350px;
+}
+footer{
+	width: 100%;
+	height: 300px;
+	background-color: red;
+}
